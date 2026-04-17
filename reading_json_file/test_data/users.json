@@ -1,0 +1,252 @@
+[
+  {
+    "email": "user@test.com",
+    "password": "pass1",
+    "role": "user"
+  },
+  {
+    "email": "blocked@test.com",
+    "password": "pass2",
+    "role": "blocked"
+  },
+  {
+    "email": "admin@test.com",
+    "password": "pass3",
+    "role": "admin"
+  },
+  {
+    "email": "user@test.com",
+    "password": "pass4",
+    "role": "user"
+  },
+  {
+    "email": "blocked@test.com",
+    "password": "pass5",
+    "role": "blocked"
+  },
+  {
+    "email": "admin@test.com",
+    "password": "pass6",
+    "role": "admin"
+  },
+  {
+    "email": "user@test.com",
+    "password": "pass7",
+    "role": "user"
+  },
+  {
+    "email": "blocked@test.com",
+    "password": "pass8",
+    "role": "blocked"
+  },
+  {
+    "email": "admin@test.com",
+    "password": "pass9",
+    "role": "admin"
+  },
+  {
+    "email": "user@test.com",
+    "password": "pass10",
+    "role": "user"
+  },
+  {
+    "email": "blocked@test.com",
+    "password": "pass11",
+    "role": "blocked"
+  },
+  {
+    "email": "admin@test.com",
+    "password": "pass12",
+    "role": "admin"
+  },
+  {
+    "email": "user@test.com",
+    "password": "pass13",
+    "role": "user"
+  },
+  {
+    "email": "blocked@test.com",
+    "password": "pass14",
+    "role": "blocked"
+  },
+  {
+    "email": "admin@test.com",
+    "password": "pass15",
+    "role": "admin"
+  },
+  {
+    "email": "user@test.com",
+    "password": "pass16",
+    "role": "user"
+  },
+  {
+    "email": "blocked@test.com",
+    "password": "pass17",
+    "role": "blocked"
+  },
+  {
+    "email": "admin@test.com",
+    "password": "pass18",
+    "role": "admin"
+  },
+  {
+    "email": "user@test.com",
+    "password": "pass19",
+    "role": "user"
+  },
+  {
+    "email": "blocked@test.com",
+    "password": "pass20",
+    "role": "blocked"
+  },
+  {
+    "email": "admin@test.com",
+    "password": "pass21",
+    "role": "admin"
+  },
+  {
+    "email": "user@test.com",
+    "password": "pass22",
+    "role": "user"
+  },
+  {
+    "email": "blocked@test.com",
+    "password": "pass23",
+    "role": "blocked"
+  },
+  {
+    "email": "admin@test.com",
+    "password": "pass24",
+    "role": "admin"
+  },
+  {
+    "email": "user@test.com",
+    "password": "pass25",
+    "role": "user"
+  },
+  {
+    "email": "blocked@test.com",
+    "password": "pass26",
+    "role": "blocked"
+  },
+  {
+    "email": "admin@test.com",
+    "password": "pass27",
+    "role": "admin"
+  },
+  {
+    "email": "user@test.com",
+    "password": "pass28",
+    "role": "user"
+  },
+  {
+    "email": "blocked@test.com",
+    "password": "pass29",
+    "role": "blocked"
+  },
+  {
+    "email": "admin@test.com",
+    "password": "pass30",
+    "role": "admin"
+  },
+  {
+    "email": "user@test.com",
+    "password": "pass31",
+    "role": "user"
+  },
+  {
+    "email": "blocked@test.com",
+    "password": "pass32",
+    "role": "blocked"
+  },
+  {
+    "email": "admin@test.com",
+    "password": "pass33",
+    "role": "admin"
+  },
+  {
+    "email": "user@test.com",
+    "password": "pass34",
+    "role": "user"
+  },
+  {
+    "email": "blocked@test.com",
+    "password": "pass35",
+    "role": "blocked"
+  },
+  {
+    "email": "admin@test.com",
+    "password": "pass36",
+    "role": "admin"
+  },
+  {
+    "email": "user@test.com",
+    "password": "pass37",
+    "role": "user"
+  },
+  {
+    "email": "blocked@test.com",
+    "password": "pass38",
+    "role": "blocked"
+  },
+  {
+    "email": "admin@test.com",
+    "password": "pass39",
+    "role": "admin"
+  },
+  {
+    "email": "user@test.com",
+    "password": "pass40",
+    "role": "user"
+  },
+  {
+    "email": "blocked@test.com",
+    "password": "pass41",
+    "role": "blocked"
+  },
+  {
+    "email": "admin@test.com",
+    "password": "pass42",
+    "role": "admin"
+  },
+  {
+    "email": "user@test.com",
+    "password": "pass43",
+    "role": "user"
+  },
+  {
+    "email": "blocked@test.com",
+    "password": "pass44",
+    "role": "blocked"
+  },
+  {
+    "email": "admin@test.com",
+    "password": "pass45",
+    "role": "admin"
+  },
+  {
+    "email": "user@test.com",
+    "password": "pass46",
+    "role": "user"
+  },
+  {
+    "email": "blocked@test.com",
+    "password": "pass47",
+    "role": "blocked"
+  },
+  {
+    "email": "admin@test.com",
+    "password": "pass48",
+    "role": "admin"
+  },
+  {
+    "email": "user@test.com",
+    "password": "pass49",
+    "role": "user"
+  },
+  {
+    "email": "blocked@test.com",
+    "password": "pass50",
+    "role": "blocked"
+  }
+]
